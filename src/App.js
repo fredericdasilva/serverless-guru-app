@@ -19,6 +19,12 @@ function App() {
           Learn React
         </a>
       </header>
+      <body className="App-body">
+      <p>
+        Welcome to my serverless website
+      </p>
+
+      </body>
     </div>
   );
 }
